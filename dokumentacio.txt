@@ -40,3 +40,8 @@ Funkcionális specifikáció
   -Next gomb funkcióval ellátva a következő kérdésre ugrás végett
   -A teszt végén egy statisztika a választások alapján
   -Új teszt kötöltése gomb funkcióval ellátva
+ 
+Felhasznált kész komponensek:
+  -
+  -
+
