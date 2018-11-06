@@ -29,6 +29,14 @@ Project neve: „KRESZ Teszt”
     A megrendelővel egyeztetések és kölönböző ötletek felvázolása után az elképzelés a következő:
       Egy modern, naprakész, könnyen használható és egyben megbízható applikáció megfelelő háttérrel és 
       ehhez tartozó webbel.Az applikáció kizárólag android-ra készül.
+      
+   Követelménylista:
+    Kortól függetlenül bárkinek
+    Átlátható rendszer
+    Modern design
+    Testreszabhatóság
+    Hiba mentes futtatás
+
    
 Funkcionális specifikáció
 
