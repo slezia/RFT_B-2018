@@ -25,9 +25,10 @@ Project neve: „KRESZ Teszt”
     •	Felhasználói fiók létrehozása, amelyben a már kitöltött tesztek eredményei tárolódnak.
 
   Igényelt üzleti folyamatok modellje:
+  
     A megrendelővel egyeztetések és kölönböző ötletek felvázolása után az elképzelés a következő:
-      Egy modern, naprakész, könnyen használató és egyben megbízható applikáció megfelelő háttérrel és 
-      ehez tartozó webbel.Az applikáció kizárólag android-ra készül.
+      Egy modern, naprakész, könnyen használható és egyben megbízható applikáció megfelelő háttérrel és 
+      ehhez tartozó webbel.Az applikáció kizárólag android-ra készül.
    
 Funkcionális specifikáció
 
@@ -38,11 +39,11 @@ Funkcionális specifikáció
    Létrehozni egy olyan ingyenes játékot, amit bárki elérhet és bármikor használhat.
 
  A rendszer funkciói:
+ 
   Szerveroldal:
   -Funkció a db-hez való csatlakozáshoz
   -Funkció a felhasználói szint megkülönbeztetésére(igény szerint)
   -Egy függvény az eddig kitöltött tesztek eredmények átlagának kiszámítására és ábrázolására
-  
   
   Kliensoldal:
   -Egy form a választási lehetőségek megjelenítésére
