@@ -6,10 +6,24 @@ Követelmény specifikáció
     összeállítottuk a specifikációkat az elkésztendő programra nézve.
     A program egy cross-platform (Android klienssel és böngészőben is elérhető) felelet választós játék.
     A megrendelő több hasonló játékot látott és szeretne egy sajátot, amiben több és érdekesebb kérdések vannak.
-    
+   
+Funkcionális specifikáció
+
  Vágyálom rendszer:
  
    Egy könnyen kezelhető választós játék, amit kortól függetlenül bárki használhat. 
    Fő motívuma a szórakozás és az időtöltés. 
    Létrehozni egy olyan ingyenes játékot, amit bárki elérhet és bármikor használhat.
 
+ A rendszer funkciói:
+  Szerveroldal:
+  -Funkció a db-hez való csatlakozáshoz
+  -Funkció a felhasználói szint megkülönbeztetésére(igény szerint)
+  -Egy függvény az eddig kitöltött tesztek eredmények átlagának kiszámítására és ábrázolására
+  
+  
+  Kliensoldal:
+  -Egy form a választási lehetőségek megjelenítésére
+  -Next gomb funkcióval ellátva a következő kérdésre ugrás végett
+  -A teszt végén egy statisztika a választások alapján
+  -Új teszt kötöltése gomb funkcióval ellátva
