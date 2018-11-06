@@ -6,6 +6,15 @@ Követelmény specifikáció
     összeállítottuk a specifikációkat az elkésztendő programra nézve.
     A program egy cross-platform (Android klienssel és böngészőben is elérhető) felelet választós játék.
     A megrendelő több hasonló játékot látott és szeretne egy sajátot, amiben több és érdekesebb kérdések vannak.
+    
+  Követelmények:
+    •	A vizsga kitöltésére maximum 55 perc áll rendelkezésre, amely hamarabb is befejezhető.
+    •	A vizsga 55 kérdésből áll, 10 db. 3 pontos és 45 db 1 pontos kérdés.
+    •	A maximális pontszám 75, a sikeres vizsgához 65 pontra van szükség.
+    •	Minden kérdésben csak 1db válasz lehet jó.
+    •	A rendelkezésre álló 55 perc alatt bármikor módosítható bármelyik kérdésre adott válasz.
+    •	Felhasználói fiók létrehozása, amelyben a már kitöltött tesztek eredményei tárolódnak.
+
    
 Funkcionális specifikáció
 
@@ -16,16 +25,13 @@ Funkcionális specifikáció
    Létrehozni egy olyan ingyenes játékot, amit bárki elérhet és bármikor használhat.
 
  A rendszer funkciói:
- 
   Szerveroldal:
-  
   -Funkció a db-hez való csatlakozáshoz
   -Funkció a felhasználói szint megkülönbeztetésére(igény szerint)
   -Egy függvény az eddig kitöltött tesztek eredmények átlagának kiszámítására és ábrázolására
   
   
   Kliensoldal:
-  
   -Egy form a választási lehetőségek megjelenítésére
   -Next gomb funkcióval ellátva a következő kérdésre ugrás végett
   -A teszt végén egy statisztika a választások alapján
